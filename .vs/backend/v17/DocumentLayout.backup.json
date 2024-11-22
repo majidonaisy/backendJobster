@@ -3,20 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Hp\\source\\repos\\backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{31E54414-6B7A-4F87-8466-AA853BFE17E9}|backend\\backend.csproj|c:\\users\\hp\\source\\repos\\backend\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{31E54414-6B7A-4F87-8466-AA853BFE17E9}|backend\\backend.csproj|solutionrelative:backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{31E54414-6B7A-4F87-8466-AA853BFE17E9}|backend\\backend.csproj|c:\\users\\hp\\source\\repos\\backend\\backend\\data\\appdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E54414-6B7A-4F87-8466-AA853BFE17E9}|backend\\backend.csproj|solutionrelative:backend\\data\\appdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{31E54414-6B7A-4F87-8466-AA853BFE17E9}|backend\\backend.csproj|c:\\users\\hp\\source\\repos\\backend\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31E54414-6B7A-4F87-8466-AA853BFE17E9}|backend\\backend.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{31E54414-6B7A-4F87-8466-AA853BFE17E9}|backend\\backend.csproj|c:\\users\\hp\\source\\repos\\backend\\backend\\migrations\\appdatacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E54414-6B7A-4F87-8466-AA853BFE17E9}|backend\\backend.csproj|solutionrelative:backend\\migrations\\appdatacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E54414-6B7A-4F87-8466-AA853BFE17E9}|backend\\backend.csproj|c:\\users\\hp\\source\\repos\\backend\\backend\\models\\startupprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E54414-6B7A-4F87-8466-AA853BFE17E9}|backend\\backend.csproj|solutionrelative:backend\\models\\startupprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E54414-6B7A-4F87-8466-AA853BFE17E9}|backend\\backend.csproj|c:\\users\\hp\\source\\repos\\backend\\backend\\models\\talentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E54414-6B7A-4F87-8466-AA853BFE17E9}|backend\\backend.csproj|solutionrelative:backend\\models\\talentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{31E54414-6B7A-4F87-8466-AA853BFE17E9}|backend\\backend.csproj|c:\\users\\hp\\source\\repos\\backend\\backend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{31E54414-6B7A-4F87-8466-AA853BFE17E9}|backend\\backend.csproj|solutionrelative:backend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{31E54414-6B7A-4F87-8466-AA853BFE17E9}|backend\\backend.csproj|c:\\users\\hp\\source\\repos\\backend\\backend\\data\\appdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31E54414-6B7A-4F87-8466-AA853BFE17E9}|backend\\backend.csproj|solutionrelative:backend\\data\\appdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{31E54414-6B7A-4F87-8466-AA853BFE17E9}|backend\\backend.csproj|c:\\users\\hp\\source\\repos\\backend\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{31E54414-6B7A-4F87-8466-AA853BFE17E9}|backend\\backend.csproj|solutionrelative:backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E54414-6B7A-4F87-8466-AA853BFE17E9}|backend\\backend.csproj|c:\\users\\hp\\source\\repos\\backend\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E54414-6B7A-4F87-8466-AA853BFE17E9}|backend\\backend.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 374,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,46 +62,84 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDataContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\backend\\backend\\Migrations\\AppDataContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "backend\\Migrations\\AppDataContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\backend\\backend\\Migrations\\AppDataContextModelSnapshot.cs",
+              "RelativeToolTip": "backend\\Migrations\\AppDataContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T18:52:42.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "StartupProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\backend\\backend\\Models\\StartupProfile.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\StartupProfile.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\backend\\backend\\Models\\StartupProfile.cs",
+              "RelativeToolTip": "backend\\Models\\StartupProfile.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA5wA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T18:08:04.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TalentProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\backend\\backend\\Models\\TalentProfile.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\TalentProfile.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\backend\\backend\\Models\\TalentProfile.cs",
+              "RelativeToolTip": "backend\\Models\\TalentProfile.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T18:00:59.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\backend\\backend\\Models\\User.cs",
               "RelativeDocumentMoniker": "backend\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\Hp\\source\\repos\\backend\\backend\\Models\\User.cs*",
-              "RelativeToolTip": "backend\\Models\\User.cs*",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\backend\\backend\\Models\\User.cs",
+              "RelativeToolTip": "backend\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-22T17:29:13.931Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\backend\\backend\\appsettings.json",
               "RelativeDocumentMoniker": "backend\\appsettings.json",
-              "ToolTip": "C:\\Users\\Hp\\source\\repos\\backend\\backend\\appsettings.json*",
-              "RelativeToolTip": "backend\\appsettings.json*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAACJAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\backend\\backend\\appsettings.json",
+              "RelativeToolTip": "backend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-22T17:08:08.926Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-22T17:08:08.926Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "AppDataContext.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\backend\\backend\\Data\\AppDataContext.cs",
               "RelativeDocumentMoniker": "backend\\Data\\AppDataContext.cs",
-              "ToolTip": "C:\\Users\\Hp\\source\\repos\\backend\\backend\\Data\\AppDataContext.cs",
-              "RelativeToolTip": "backend\\Data\\AppDataContext.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAwwAgAAAAuAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\backend\\backend\\Data\\AppDataContext.cs*",
+              "RelativeToolTip": "backend\\Data\\AppDataContext.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAABgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-22T12:14:48.748Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\backend\\backend\\Program.cs",
               "RelativeDocumentMoniker": "backend\\Program.cs",
@@ -97,8 +147,7 @@
               "RelativeToolTip": "backend\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T10:46:24.098Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-22T10:46:24.098Z"
             }
           ]
         },
