@@ -1,11 +1,12 @@
-﻿namespace backend.Models
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace backend.Models
 {
     public class TalentProfile
     {
+        [Key]
         public int Id { get; set; }
         public int UserId { get; set; }
-        public string FirstName { get; set; }
-        public string LastName { get; set; }
         public string Bio {  get; set; }
         public string PhoneNumber { get; set; }
         public DateTime DateOfBirth { get; set; }
